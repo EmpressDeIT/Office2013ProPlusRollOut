@@ -24,5 +24,4 @@ echo Legacy Office Uninstall Finished > %systemDrive%\users\0551c3_1n.txt
 
 echo Office 2013 ProPlus Finished > %systemDrive%\Users\C0mpl3te_0ff1c3.txt
 
-
 Exit
