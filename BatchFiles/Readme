@@ -1,0 +1,3 @@
+These ran asynchronously at startup via Group Policy, writes a file the "C:\users" folder when completed and will only run once.
+
+Dependant files for Office2013 install and the Office2010 uninstall stored in the NETLOGON folder of DC
