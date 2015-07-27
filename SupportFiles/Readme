@@ -1,0 +1,1 @@
+These files are stored in the NETLOGON folder of DC and used with batchfiles run asynchronously at startup via Group Policy
